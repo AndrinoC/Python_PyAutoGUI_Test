@@ -1,0 +1,6 @@
+pygame
+PySimpleGUI
+pillow
+pyautogui
+pyperclip
+time
