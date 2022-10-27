@@ -24,3 +24,5 @@ Changes 0.3: Opmitized code
 Changes 0.4: Made textbox into multiline
 
 Changes 0.5: Added a clear text button and "Shift-tab" binding to return to previous textbox focus
+
+Changes 0.6: Made 'target' text be pasted in a way that works with special characters
