@@ -8,6 +8,13 @@ How to use it:
 - Download files
 - Run run_bot.bat
 
+How it works:
+- A window will open requesting your friend's username and a text to be sent
+- After pressing "Send" the script will scan for the provided images at "resources\image_detection"
+- Mouse will be moved until the "search friend" tab is focused
+- When in "search friend" tab the script will write your target and hit enter
+- Upon reaching the target's chat the script will paste your text and send it
+
 Changelogs:
 
 Changes 0.2: Removed unnecessary code and libraries
