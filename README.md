@@ -12,3 +12,8 @@ Changes 0.4: Made textbox into multiline
 
 Changes 0.5: Added a clear text button and "Shift-tab" binding to return to previous textbox focus
 
+Download link: https://github.com/AndrinoC/autoMessageDiscord/archive/refs/heads/main.zip
+
+How to use it:
+- Download files
+- Run run_bot.bat
