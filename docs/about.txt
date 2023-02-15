@@ -1,6 +1,9 @@
 How it works:
 - A window will open requesting your friend's username and a text to be sent
-- After pressing "Send" the script will scan for the provided images at "resources\image_detection"
-- Mouse will be moved until the "search friend" tab is focused
-- When in "search friend" tab the script will write your target and hit enter
-- Upon reaching the target's chat the script will paste your text and send it
+- After pressing "Send" the script will scan for the provided images at "resources\images" (can be changed for increased accuracy)
+- The script will take control of the keyboard and mouse in order to send the message
+
+Como funciona:
+- Uma janela irá abrir solicitando o seu amigo e o texto a ser enviado
+- Após pressionar "Send" o script vai escanear pelas imagens em "resources\images" (podem ser mudadas para melhor precisão)
+- O script irá tomar controle do teclado e mouse para realizar o envio da mensagem
